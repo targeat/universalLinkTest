@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XT49V48SU4.mobi.95526.bjbank",
+                "paths": ["*"]
+            },
+	    {
+                "appID": "GMNDF9KPZ3.95526.mobi",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
